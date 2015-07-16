@@ -1,4 +1,4 @@
-zmq-poc
+sqs-poc
 ==============
 AWS SQS playground on node.js
 
