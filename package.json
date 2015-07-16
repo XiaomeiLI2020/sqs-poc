@@ -1,0 +1,26 @@
+{
+  "name": "@baldercm/sqs-poc",
+  "version": "0.1.0",
+  "description": "AWS SQS playground on node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "make test",
+    "test-ci": "make test-ci",
+    "coverage": "make coverage"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.39"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldercm/sqs-poc.git"
+  },
+  "author": {
+    "name": "Bálder Carraté",
+    "email": "baldercm@gmail.com"
+  },
+  "private": true,
+  "contributors": []
+}
